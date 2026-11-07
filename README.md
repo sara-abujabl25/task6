@@ -46,3 +46,4 @@ SharedPreferences was selected to store task data locally on the device. It allo
 
 ```bash
 flutter pub get
+flutter run
